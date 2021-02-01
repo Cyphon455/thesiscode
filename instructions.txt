@@ -1,0 +1,12 @@
+- A DATA_PATH environment variable pointing to the input data (pickle file) is required
+- Unpack data.rar for the input data file
+- Input data needs to be a list of dictionaries, each row with a 'column: value' format
+
+- Use main.py for the main system
+- comparison.py is for the base PI system
+- baseline.py is for queries without indexing
+
+- Sampling size and indexing style can be set in main.py
+- Predicates and queries are set in dev.py -> QuerySimulator.simulate()
+
+DATA_PATH=C:/Users/Max/Desktop/_THESIS/CODEABGABE/data.pickle
