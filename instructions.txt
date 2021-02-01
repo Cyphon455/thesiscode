@@ -8,5 +8,3 @@
 
 - Sampling size and indexing style can be set in main.py
 - Predicates and queries are set in dev.py -> QuerySimulator.simulate()
-
-DATA_PATH=C:/Users/Max/Desktop/_THESIS/CODEABGABE/data.pickle
